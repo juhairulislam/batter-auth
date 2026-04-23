@@ -49,7 +49,7 @@ const SignInPage = () => {
                                 <Input name='email' placeholder="Your Email" />
                                 <FieldError />
                             </TextField>
-                              <TextField className="w-full max-w-[280px]" name="password">
+                              <TextField className="w-full max-w-[281px]" name="password">
       <Label>Password</Label>
       <InputGroup>
         <InputGroup.Input
