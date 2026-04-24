@@ -29,7 +29,6 @@ const SignInPage = () => {
 
     return (
         <div>
-            <h1>sign in</h1>
 
              <Form className="flex w-96 flex-col gap-4" onSubmit={onSubmit}>
             
