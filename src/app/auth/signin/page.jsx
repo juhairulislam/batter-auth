@@ -53,7 +53,7 @@ const SignInPage = () => {
       <Label>Password</Label>
       <InputGroup>
         <InputGroup.Input
-          className="w-full max-w-[280px]"
+          className="w-full max-w-[281px]"
           type={isVisible ? "text" : "password"}
           name='password'
           placeholder='Your Password'
